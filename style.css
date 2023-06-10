@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+}
+.form-container{
+    border: 2px solid red;
+    min-width: 50%;
+    font-family: sans-serif;
+}
+.image-container{
+    border: 2px solid blue;
+    width: 50%;
+    background-image: url("https://images.pexels.com/photos/3571551/pexels-photo-3571551.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
